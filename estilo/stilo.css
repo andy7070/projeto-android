@@ -60,9 +60,9 @@ main a:hover{
 header{
    background-image: linear-gradient(to bottom, var(--cor2), var(--cor4));
    background-image: url(../imagens/Android-Logo-2014-2019.png);
-   background-image: url(../imagens/Android-Logo-2014-2019.png);
    background-size: 540px;
    background-repeat: no-repeat;
+   border: 2px solid var(--cor2);
    
    
 
