@@ -59,6 +59,8 @@ main a:hover{
 }
 header{
    background-image: linear-gradient(to bottom, var(--cor2), var(--cor4));
+   background-image: url(../imagens/Android_logo_2019_\(stacked\).svg);
+   background-size: 540px;
    
 }
 header > p{
@@ -84,6 +86,9 @@ header > h1{
     margin-bottom: 30px;
     font-size: 3em;
     text-shadow: 2px 2px 0px black;
+    font-family: var(--font-destaque);
+    color: white;
+    
 }
 nav{
     background-color: var(--cor4);
@@ -107,11 +112,6 @@ color: var(--cor4);
 }
 
 
-
-header > h1{
-    font-family: var(--font-destaque);
-    color: white;
-}
 div.video{
     background-color: var(--cor4);
     margin: 25px -20px 25px -20px;
