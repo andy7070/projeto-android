@@ -61,7 +61,8 @@ header{
    background-image: linear-gradient(to bottom, var(--cor2), var(--cor4));
    background-image: url(../imagens/Android-Logo-2014-2019.png);
    background-size: 540px;
-   background-repeat: no-repeat;
+   background-position: center center;
+   background-repeat: repeat-x;
    border: 2px solid var(--cor2);
    
    
