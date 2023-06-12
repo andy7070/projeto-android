@@ -102,7 +102,7 @@ nav > a{
     text-decoration: none;
     font-weight: bolder;
     border-radius: 5px;
-    transition-duration: 1s;
+    transition-duration: 0.5s;
 
     
 }
